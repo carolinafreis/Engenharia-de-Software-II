@@ -1,0 +1,93 @@
+			Caso de uso textual 
+	
+		Sistema de Cálculo do Índice de Massa Corporal
+
+	1. Identificador: id_peso
+	2.  Nome: Fornecer peso
+	3. Autor: Carolina Reis
+	4. Prioridade: Requisito consciente (Satisfiers) - Máxima
+	5. Fonte: Victor Hugo
+	6. Responsável: Carolina Reis
+	7. Descrição: Fornecer o peso (entrada de dado) para que o sistema faça o cálculo do IMC (Índice de Massa Corporal) 
+	8. Atores: Usuário
+	9. Resultado: Após entrada de dados, mostrar o IMC (Índice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa está em seu peso ideal ou não.
+	10. Cenário Principal: O usuário irá inserir o peso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Caso de uso textual
+
+	1. Identificador: id_altura
+	2.  Nome: Fornecer altura
+	3. Autor: Carolina Reis
+	4. Prioridade: Requisito consciente (Satisfiers) - Máxima
+	5. Fonte: Victor Hugo
+	6. Responsável: Carolina Reis
+	7. Descrição: Fornecer a altura (entrada de dado) para que o sistema faça o cálculo do IMC (Índice de Massa Corporal) 
+	8. Atores: Usuário
+	9. Resultado: Após entrada de dados, mostrar o IMC (Índice de Massa Corporal) e seguindo uma tabela mostrar, se a pessoa está em seu peso ideal ou não.
+	10. Cenário Principal: O usuário irá inserir a altura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Caso de uso textual
+
+	1. Identificador: id_imc
+	2.  Nome: Calcular IMC
+	3. Autor: Carolina Reis
+	4. Prioridade: Requisito consciente (Satisfiers) - Máxima
+	5. Fonte: Victor Hugo
+	6. Responsável: Carolina Reis
+	7. Descrição: Após entrada de dados necessários, o sistema calcula o IMC (Índice de Massa Corporal) através da fórmula (peso/altura²).
+	8. Atores: Usuário
+	9. Resultado: Mostrar o IMC (Índice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa está em seu peso ideal ou não.
+	10. Cenário Principal: Após confirmação do usuário, o sistema irá realizar o cálculo do IMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Caso de uso textual
+
+	1. Identificador: id_result
+	2.  Nome: Exibir resultado
+	3. Autor: Carolina Reis
+	4. Prioridade: Requisito subconsciente (Dissatisfiers) - Média
+	5. Fonte: Victor Hugo
+	6. Responsável: Carolina Reis
+	7. Descrição: Mostrar o resultado do cálculo do IMC (Índice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa está em seu peso ideal ou não.
+	8. Atores: Usuário
+	9. Resultado: Exibir o IMC (Índice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa está em seu peso ideal ou não.
+	10. Cenário Principal: Após o cálculo, o sistema exibirá o resultado e o status de IMC
+
