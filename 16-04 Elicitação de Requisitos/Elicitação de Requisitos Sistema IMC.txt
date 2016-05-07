@@ -1,0 +1,28 @@
+					Técnicas de Elicitação
+
+				Requisitos Conscientes – Entrevista Estruturada
+					Projeto Sistema para Cálculo do IMC
+
+					Questões da entrevista:
+
+	1. Qual a finalidade do sistema?	
+		Calcular o Índice de Massa Corporal do usuário a partir do seu peso e altura. E apresentar ao mesmo o “status” em que ele se encontra (em qual “tipo” de IMC, intervalos tabelados).
+	
+	2. Quais são os pré-requisitos que o sistema deve atender?
+		- Fornecer peso e altura (entrada de dados);
+		- Calcular o IMC;
+		- Indicar entre qual intervalo de IMC o usuário se encontra;
+
+	3. Quem irá utilizar o sistema?
+		- Pessoas com idade acima de 15 anos. 
+
+	4. Qual o prazo para a montagem do sistema?
+		- 4 Meses.
+
+
+			Requisitos Subconscientes – Observação de Campo
+	- Os resultados dos cálculos e o intervalo onde ele se encontra sejam exibidos na interface.
+
+
+			Requisitos Inconscientes – Criatividade
+	- Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”.
