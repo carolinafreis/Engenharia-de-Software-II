@@ -1,28 +1,29 @@
-					TÈcnicas de ElicitaÁ„o
+					T√©cnicas de Elicita√ß√£o
 
-				Requisitos Conscientes ñ Entrevista Estruturada
-					Projeto Sistema para C·lculo do IMC
+				Requisitos Conscientes ‚Äì Entrevista Estruturada
+					Projeto Sistema para C√°lculo do IMC
 
-					Questıes da entrevista:
+					Quest√µes da entrevista:
 
 	1. Qual a finalidade do sistema?	
-		Calcular o Õndice de Massa Corporal do usu·rio a partir do seu peso e altura. E apresentar ao mesmo o ìstatusî em que ele se encontra (em qual ìtipoî de IMC, intervalos tabelados).
+		Calcular o √çndice de Massa Corporal do usu√°rio a partir do seu peso e altura. E apresentar ao mesmo o ‚Äústatus‚Äù em que ele se encontra (em qual ‚Äútipo‚Äù de IMC, intervalos tabelados).
 	
-	2. Quais s„o os prÈ-requisitos que o sistema deve atender?
+	2. Quais s√£o os pr√©-requisitos que o sistema deve atender?
 		- Fornecer peso e altura (entrada de dados);
 		- Calcular o IMC;
-		- Indicar entre qual intervalo de IMC o usu·rio se encontra;
+		- Indicar entre qual intervalo de IMC o usu√°rio se encontra;
 
-	3. Quem ir· utilizar o sistema?
+	3. Quem ir√° utilizar o sistema?
 		- Pessoas com idade acima de 15 anos. 
 
 	4. Qual o prazo para a montagem do sistema?
-		- 4 Meses.
+		- At√© 10/06. Primeira data de apresenta√ß√£o do projeto. 
+		- 55 dias.
 
 
-			Requisitos Subconscientes ñ ObservaÁ„o de Campo
-	- Os resultados dos c·lculos e o intervalo onde ele se encontra sejam exibidos na interface.
+			Requisitos Subconscientes ‚Äì Observa√ß√£o de Campo
+	- Os resultados dos c√°lculos e o intervalo onde ele se encontra sejam exibidos na interface.
 
 
-			Requisitos Inconscientes ñ Criatividade
-	- Layout/Interface/ApresentaÁ„o da saÌda de dados mais sofisticada graficamente, ìbonitaî.
+			Requisitos Inconscientes ‚Äì Criatividade
+	- Layout/Interface/Apresenta√ß√£o da sa√≠da de dados mais sofisticada graficamente, ‚Äúbonita‚Äù.
