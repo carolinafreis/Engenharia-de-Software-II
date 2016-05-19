@@ -1,0 +1,21 @@
+Documento de Especificação Suplementar  
+ 
+Priorização de Kano  
+
+
+Requisitos Esperados - Conscientes 
+	Técnica de Elicitação: Entrevista Não Estruturada (Pesquisa)
+- Exemplos:
+      - Calcular IMC a partir de peso e altura do usuario
+       
+
+Requisitos Básicos - Subconscientes 
+	Técnica de Elicitação: Observação de Campo (Observação)
+	- Exemplos:
+	      - Exibir o resultado dos cálculos do Índice de Massa Corporal na tela
+               - Exibir o resultado do “intervalo” onde se encontra o status de IMC da pessoa na tela	
+
+Requisitos Inesperados – Inconscientes 
+	Técnica de Elicitação: (Criatividade)
+- Exemplos:
+      - Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”. 
