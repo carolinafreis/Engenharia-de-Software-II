@@ -1,17 +1,17 @@
 			Caso de uso textual 
 	
-		Sistema de C·lculo do Õndice de Massa Corporal
+		Sistema de C√°lculo do √çndice de Massa Corporal
 
-	1. Identificador: id_peso
+	1. Identificador: 1.1
 	2.  Nome: Fornecer peso
 	3. Autor: Carolina Reis
-	4. Prioridade: Requisito consciente (Satisfiers) - M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) - M√°xima
 	5. Fonte: Victor Hugo
-	6. Respons·vel: Carolina Reis
-	7. DescriÁ„o: Fornecer o peso (entrada de dado) para que o sistema faÁa o c·lculo do IMC (Õndice de Massa Corporal) 
-	8. Atores: Usu·rio
-	9. Resultado: ApÛs entrada de dados, mostrar o IMC (Õndice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa est· em seu peso ideal ou n„o.
-	10. Cen·rio Principal: O usu·rio ir· inserir o peso
+	6. Respons√°vel: Carolina Reis
+	7. Descri√ß√£o: Fornecer o peso (entrada de dado) para que o sistema fa√ßa o c√°lculo do IMC (√çndice de Massa Corporal) 
+	8. Atores: Usu√°rio
+	9. Resultado: Ap√≥s entrada de dados, mostrar o IMC (√çndice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa est√° em seu peso ideal ou n√£o.
+	10. Cen√°rio Principal: O usu√°rio ir√° inserir o peso
 
 
 
@@ -28,16 +28,16 @@
 
 			Caso de uso textual
 
-	1. Identificador: id_altura
+	1. Identificador: 1.2
 	2.  Nome: Fornecer altura
 	3. Autor: Carolina Reis
-	4. Prioridade: Requisito consciente (Satisfiers) - M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) - M√°xima
 	5. Fonte: Victor Hugo
-	6. Respons·vel: Carolina Reis
-	7. DescriÁ„o: Fornecer a altura (entrada de dado) para que o sistema faÁa o c·lculo do IMC (Õndice de Massa Corporal) 
-	8. Atores: Usu·rio
-	9. Resultado: ApÛs entrada de dados, mostrar o IMC (Õndice de Massa Corporal) e seguindo uma tabela mostrar, se a pessoa est· em seu peso ideal ou n„o.
-	10. Cen·rio Principal: O usu·rio ir· inserir a altura
+	6. Respons√°vel: Carolina Reis
+	7. Descri√ß√£o: Fornecer a altura (entrada de dado) para que o sistema fa√ßa o c√°lculo do IMC (√çndice de Massa Corporal) 
+	8. Atores: Usu√°rio
+	9. Resultado: Ap√≥s entrada de dados, mostrar o IMC (√çndice de Massa Corporal) e seguindo uma tabela mostrar, se a pessoa est√° em seu peso ideal ou n√£o.
+	10. Cen√°rio Principal: O usu√°rio ir√° inserir a altura
 
 
 
@@ -54,16 +54,16 @@
 
 			Caso de uso textual
 
-	1. Identificador: id_imc
+	1. Identificador: 1.3
 	2.  Nome: Calcular IMC
 	3. Autor: Carolina Reis
-	4. Prioridade: Requisito consciente (Satisfiers) - M·xima
+	4. Prioridade: Requisito consciente (Satisfiers) - M√°xima
 	5. Fonte: Victor Hugo
-	6. Respons·vel: Carolina Reis
-	7. DescriÁ„o: ApÛs entrada de dados necess·rios, o sistema calcula o IMC (Õndice de Massa Corporal) atravÈs da fÛrmula (peso/altura≤).
-	8. Atores: Usu·rio
-	9. Resultado: Mostrar o IMC (Õndice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa est· em seu peso ideal ou n„o.
-	10. Cen·rio Principal: ApÛs confirmaÁ„o do usu·rio, o sistema ir· realizar o c·lculo do IMC
+	6. Respons√°vel: Carolina Reis
+	7. Descri√ß√£o: Ap√≥s entrada de dados necess√°rios, o sistema calcula o IMC (√çndice de Massa Corporal) atrav√©s da f√≥rmula (peso/altura¬≤).
+	8. Atores: Usu√°rio
+	9. Resultado: Mostrar o IMC (√çndice de Massa Corporal) e seguindo uma tabela, mostrar se a pessoa est√° em seu peso ideal ou n√£o.
+	10. Cen√°rio Principal: Ap√≥s confirma√ß√£o do usu√°rio, o sistema ir√° realizar o c√°lculo do IMC
 
 
 
@@ -80,14 +80,14 @@
 
 			Caso de uso textual
 
-	1. Identificador: id_result
+	1. Identificador: 1.4
 	2.  Nome: Exibir resultado
 	3. Autor: Carolina Reis
-	4. Prioridade: Requisito subconsciente (Dissatisfiers) - MÈdia
+	4. Prioridade: Requisito subconsciente (Dissatisfiers) - M√©dia
 	5. Fonte: Victor Hugo
-	6. Respons·vel: Carolina Reis
-	7. DescriÁ„o: Mostrar o resultado do c·lculo do IMC (Õndice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa est· em seu peso ideal ou n„o.
-	8. Atores: Usu·rio
-	9. Resultado: Exibir o IMC (Õndice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa est· em seu peso ideal ou n„o.
-	10. Cen·rio Principal: ApÛs o c·lculo, o sistema exibir· o resultado e o status de IMC
+	6. Respons√°vel: Carolina Reis
+	7. Descri√ß√£o: Mostrar o resultado do c√°lculo do IMC (√çndice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa est√° em seu peso ideal ou n√£o.
+	8. Atores: Usu√°rio
+	9. Resultado: Exibir o IMC (√çndice de Massa Corporal) e seguindo uma tabela mostrar se a pessoa est√° em seu peso ideal ou n√£o.
+	10. Cen√°rio Principal: Ap√≥s o c√°lculo, o sistema exibir√° o resultado e o status de IMC
 
